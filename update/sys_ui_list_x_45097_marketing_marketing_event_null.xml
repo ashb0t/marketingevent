@@ -4,122 +4,137 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_45097_marketing_marketing_event" element="NULL" name="x_45097_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">209f61e4db4d320075f85ff0cf961940</list_id>
+            <list_id display_value="x_45097_marketing_marketing_event" element="NULL" name="x_45097_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3b6ddf71db85720075f85ff0cf961935</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-16 20:29:53</sys_created_on>
-            <sys_id>609fa1e4db4d320075f85ff0cf96196b</sys_id>
+            <sys_created_on>2017-02-21 01:42:18</sys_created_on>
+            <sys_id>736ddf71db85720075f85ff0cf961936</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-16 20:29:53</sys_updated_on>
+            <sys_updated_on>2017-02-21 01:42:18</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>city</element>
-            <list_id display_value="x_45097_marketing_marketing_event" element="NULL" name="x_45097_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">209f61e4db4d320075f85ff0cf961940</list_id>
+            <list_id display_value="x_45097_marketing_marketing_event" element="NULL" name="x_45097_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3b6ddf71db85720075f85ff0cf961935</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-16 20:29:53</sys_created_on>
-            <sys_id>e49fa1e4db4d320075f85ff0cf96196b</sys_id>
+            <sys_created_on>2017-02-21 01:42:18</sys_created_on>
+            <sys_id>f76ddf71db85720075f85ff0cf961936</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-16 20:29:53</sys_updated_on>
+            <sys_updated_on>2017-02-21 01:42:18</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>budget</element>
-            <list_id display_value="x_45097_marketing_marketing_event" element="NULL" name="x_45097_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">209f61e4db4d320075f85ff0cf961940</list_id>
+            <list_id display_value="x_45097_marketing_marketing_event" element="NULL" name="x_45097_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3b6ddf71db85720075f85ff0cf961935</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-16 20:29:54</sys_created_on>
-            <sys_id>689fa1e4db4d320075f85ff0cf96196b</sys_id>
+            <sys_created_on>2017-02-21 01:42:18</sys_created_on>
+            <sys_id>7b6ddf71db85720075f85ff0cf961936</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-16 20:29:54</sys_updated_on>
+            <sys_updated_on>2017-02-21 01:42:18</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sponsor</element>
-            <list_id display_value="x_45097_marketing_marketing_event" element="NULL" name="x_45097_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">209f61e4db4d320075f85ff0cf961940</list_id>
+            <list_id display_value="x_45097_marketing_marketing_event" element="NULL" name="x_45097_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3b6ddf71db85720075f85ff0cf961935</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-16 20:29:54</sys_created_on>
-            <sys_id>e89fa1e4db4d320075f85ff0cf96196b</sys_id>
+            <sys_created_on>2017-02-21 01:42:18</sys_created_on>
+            <sys_id>fb6ddf71db85720075f85ff0cf961936</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-16 20:29:54</sys_updated_on>
+            <sys_updated_on>2017-02-21 01:42:18</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>start_date</element>
-            <list_id display_value="x_45097_marketing_marketing_event" element="NULL" name="x_45097_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">209f61e4db4d320075f85ff0cf961940</list_id>
+            <list_id display_value="x_45097_marketing_marketing_event" element="NULL" name="x_45097_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3b6ddf71db85720075f85ff0cf961935</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-16 20:29:54</sys_created_on>
-            <sys_id>6c9fa1e4db4d320075f85ff0cf96196b</sys_id>
+            <sys_created_on>2017-02-21 01:42:18</sys_created_on>
+            <sys_id>7f6ddf71db85720075f85ff0cf961936</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-16 20:29:54</sys_updated_on>
+            <sys_updated_on>2017-02-21 01:42:18</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>end_date</element>
-            <list_id display_value="x_45097_marketing_marketing_event" element="NULL" name="x_45097_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">209f61e4db4d320075f85ff0cf961940</list_id>
+            <list_id display_value="x_45097_marketing_marketing_event" element="NULL" name="x_45097_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3b6ddf71db85720075f85ff0cf961935</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-16 20:29:54</sys_created_on>
-            <sys_id>ec9fa1e4db4d320075f85ff0cf96196b</sys_id>
+            <sys_created_on>2017-02-21 01:42:18</sys_created_on>
+            <sys_id>ff6ddf71db85720075f85ff0cf961936</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-16 20:29:54</sys_updated_on>
+            <sys_updated_on>2017-02-21 01:42:18</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number_of_attendees_expected</element>
-            <list_id display_value="x_45097_marketing_marketing_event" element="NULL" name="x_45097_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">209f61e4db4d320075f85ff0cf961940</list_id>
+            <list_id display_value="x_45097_marketing_marketing_event" element="NULL" name="x_45097_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3b6ddf71db85720075f85ff0cf961935</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-16 20:29:54</sys_created_on>
-            <sys_id>609fa1e4db4d320075f85ff0cf96196c</sys_id>
+            <sys_created_on>2017-02-21 01:42:18</sys_created_on>
+            <sys_id>736ddf71db85720075f85ff0cf961937</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-16 20:29:54</sys_updated_on>
+            <sys_updated_on>2017-02-21 01:42:18</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number_of_attendees_registered</element>
-            <list_id display_value="x_45097_marketing_marketing_event" element="NULL" name="x_45097_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">209f61e4db4d320075f85ff0cf961940</list_id>
+            <list_id display_value="x_45097_marketing_marketing_event" element="NULL" name="x_45097_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3b6ddf71db85720075f85ff0cf961935</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-16 20:29:54</sys_created_on>
-            <sys_id>e09fa1e4db4d320075f85ff0cf96196c</sys_id>
+            <sys_created_on>2017-02-21 01:42:18</sys_created_on>
+            <sys_id>f36ddf71db85720075f85ff0cf961937</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-16 20:29:54</sys_updated_on>
+            <sys_updated_on>2017-02-21 01:42:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>approval</element>
+            <list_id display_value="x_45097_marketing_marketing_event" element="NULL" name="x_45097_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3b6ddf71db85720075f85ff0cf961935</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-21 01:42:18</sys_created_on>
+            <sys_id>776ddf71db85720075f85ff0cf961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-21 01:42:18</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -133,11 +148,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-16 20:29:53</sys_created_on>
+            <sys_created_on>2017-02-21 01:42:18</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>209f61e4db4d320075f85ff0cf961940</sys_id>
+            <sys_id>3b6ddf71db85720075f85ff0cf961935</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_45097_marketing_marketing_event</sys_name>
             <sys_package display_value="Marketing Events Application" source="x_45097_marketing">e316a464dbc5320075f85ff0cf961977</sys_package>
@@ -146,7 +161,7 @@
             <sys_scope display_value="Marketing Events Application">e316a464dbc5320075f85ff0cf961977</sys_scope>
             <sys_update_name>sys_ui_list_x_45097_marketing_marketing_event_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-16 20:29:53</sys_updated_on>
+            <sys_updated_on>2017-02-21 01:42:18</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
